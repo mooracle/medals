@@ -9,3 +9,11 @@
 #bronze_medal{
   color: orange;
 }
+
+.metal {
+  font-family: sans-serif, Helvetica;
+  color: #236bc0;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 1.5em;
+}
