@@ -17,3 +17,9 @@ Note:
 1. In PC commit we will edit the README.md file
 2. In the Mac we will edit the CONTRIBUTING.md
 3. We only focus first on non conflicting files and just want to see how the two master pushed
+
+This time we will make it interesting after the PC has push commit
+The PC push the latest README.md commit in a new branch called masterv2
+This time I will push another commit under the master branches
+Then I will make the PC to fetch the latest update
+and then try to merge them using pull method.
