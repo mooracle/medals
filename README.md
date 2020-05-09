@@ -30,7 +30,7 @@ This time I will push another commit under the master branches
 Then I will make the PC to fetch the latest update
 and then try to merge them using pull method.
 
-Now I am at the antREAD branch and want to push this branch to remote
+Now I am at the antREAD branch and want to push this bragnch to remote
 Then test the fetch in the Mac and see if it can be pulled
 What will happen if it was fetch and what will happen if this is being pulled.
 
