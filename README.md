@@ -17,3 +17,9 @@ Note:
 1. In PC commit we will edit the README.md file
 2. In the Mac we will edit the CONTRIBUTING.md
 3. We only focus first on non conflicting files and just want to see how the two master pushed
+
+The master branch failed to push into remote since remote detect conflicting branch names
+The master from the PC was far ahead thus I decided to use the simplest solution using pull in the Mac
+The result is the master branch in Mac were being merged with the origin/master first
+Then since there are not conflicting files the merged was successful.
+Then I can safely push the latest master branch into remote from the Mac
