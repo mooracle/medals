@@ -33,3 +33,6 @@ and then try to merge them using pull method.
 Now I am at the antREAD branch and want to push this branch to remote
 Then test the fetch in the Mac and see if it can be pulled
 What will happen if it was fetch and what will happen if this is being pulled.
+
+I am now at the new_readme branch which is checked out without me having to make
+Next I will commit this changes and see what will be like in the other side
