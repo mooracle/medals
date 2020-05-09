@@ -23,3 +23,9 @@ The master from the PC was far ahead thus I decided to use the simplest solution
 The result is the master branch in Mac were being merged with the origin/master first
 Then since there are not conflicting files the merged was successful.
 Then I can safely push the latest master branch into remote from the Mac
+
+This time we will make it interesting after the PC has push commit
+The PC push the latest README.md commit in a new branch called masterv2
+This time I will push another commit under the master branches
+Then I will make the PC to fetch the latest update
+and then try to merge them using pull method.
