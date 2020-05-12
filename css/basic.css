@@ -15,12 +15,11 @@
   color: #236bc0;
   font-style: oblique;
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 1.789em;
 }
 .ribbon{
-  font-family: monospace;
-  color: inherit;
-  font-style: oblique;
-  font-weight: normal;
-  font-size: .77em;
+  font-family: serif;
+  font-size: 1.1em;
+  font-style: normal;
+  font-weight: lighter;
 }

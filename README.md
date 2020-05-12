@@ -30,7 +30,7 @@ This time I will push another commit under the master branches
 Then I will make the PC to fetch the latest update
 and then try to merge them using pull method.
 
-Now I am at the antREAD branch and want to push this bragnch to remote
+Now I am at the antREAD branch and want to push this branch to remote
 Then test the fetch in the Mac and see if it can be pulled
 What will happen if it was fetch and what will happen if this is being pulled.
 
@@ -42,3 +42,6 @@ this is will be significance on how to create Gold mod as part of ribbon which w
 1. the css will choose the bronze mod
 2. the html is supposedly rebased seamlessly
 3. the README will be combination of the two branches.
+
+Note on Bronze mod:
+The bronze mod intended to add effect to the ribbon paragraph text. It will change using the css file but still there will be another mod in the gold and silver as it was made in the master branch. In the end it will be a scenario for conflicting issues as I try to rebase. In the only one css style chosen while the README will consist two commits.
