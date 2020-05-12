@@ -36,3 +36,9 @@ What will happen if it was fetch and what will happen if this is being pulled.
 
 I am now at the new_readme branch which is checked out without me having to make
 Next I will commit this changes and see what will be like in the other side
+
+Gold mod:
+this is will be significance on how to create Gold mod as part of ribbon which will be conflicting in the end.
+1. the css will choose the bronze mod
+2. the html is supposedly rebased seamlessly
+3. the README will be combination of the two branches.
